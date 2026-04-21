@@ -1,0 +1,9 @@
+{
+	"name": "spotifyazureproject-df",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4537f094-ed4a-4826-90f6-a30052b85278",
+		"tenantId": "49480adc-dce6-40b2-919f-1d5aacdd81ad"
+	}
+}
