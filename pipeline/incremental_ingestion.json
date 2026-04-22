@@ -185,7 +185,7 @@
 										"file": "@concat(pipeline().parameters.table,' ',variables('current'))"
 									}
 								},
-								"enableLogging": true,
+								"enableLogging": false,
 								"storeSettings": {
 									"type": "AzureBlobFSReadSettings",
 									"recursive": true,
